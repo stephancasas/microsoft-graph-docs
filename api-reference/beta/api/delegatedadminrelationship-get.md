@@ -53,6 +53,8 @@ The **delegatedAdminRelationship** object also contains an **@odata.etag** prope
 ## Examples
 
 ### Request
+
+# [HTTP](#tab/http)
 <!-- {
   "blockType": "request",
   "name": "get_delegatedadminrelationship"
@@ -61,6 +63,12 @@ The **delegatedAdminRelationship** object also contains an **@odata.etag** prope
 ``` http
 GET https://graph.microsoft.com/beta/tenantRelationships/delegatedAdminRelationships/5d027261-d21f-4aa9-b7db-7fa1f56fb163-8777b240-c6f0-4469-9e98-a3205431b836
 ```
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-delegatedadminrelationship-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
+---
+
 
 
 ### Response

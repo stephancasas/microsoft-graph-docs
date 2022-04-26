@@ -110,6 +110,10 @@ GET https://graph.microsoft.com/v1.0/roleManagement/directory/roleDefinitions
 [!INCLUDE [sample-code](../includes/snippets/powershell/get-roledefinitions-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-roledefinitions-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 
@@ -230,6 +234,8 @@ Content-type: application/json
 
 
 # [HTTP](#tab/http)
+
+# [HTTP](#tab/http)
 <!-- {
   "blockType": "request",
   "name": "get_roledefinitions_entitlementmanagement_provider"
@@ -238,6 +244,12 @@ Content-type: application/json
 ```msgraph-interactive
 GET https://graph.microsoft.com/v1.0/roleManagement/entitlementManagement/roleDefinitions
 ```
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-roledefinitions-entitlementmanagement-provider-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
+---
+
 
 #### Response
 

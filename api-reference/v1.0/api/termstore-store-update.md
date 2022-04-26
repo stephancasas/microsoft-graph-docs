@@ -96,6 +96,10 @@ Content-Type: application/json
 [!INCLUDE [sample-code](../includes/snippets/powershell/update-store-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/update-store-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

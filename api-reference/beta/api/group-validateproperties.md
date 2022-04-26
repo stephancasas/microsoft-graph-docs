@@ -117,6 +117,10 @@ Content-type: application/json
 [!INCLUDE [sample-code](../includes/snippets/powershell/group-validateproperties-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/group-validateproperties-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 ### Response

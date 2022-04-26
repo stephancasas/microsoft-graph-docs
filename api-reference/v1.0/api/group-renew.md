@@ -90,6 +90,10 @@ POST https://graph.microsoft.com/v1.0/groups/{id}/renew
 [!INCLUDE [sample-code](../includes/snippets/powershell/group-renew-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/group-renew-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 ### Response

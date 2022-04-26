@@ -74,6 +74,10 @@ GET https://graph.microsoft.com/beta/print/reports/monthlyPrintUsageByPrinter
 [!INCLUDE [sample-code](../includes/snippets/go/get-endpoints-5-go-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-endpoints-5-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 ### Response

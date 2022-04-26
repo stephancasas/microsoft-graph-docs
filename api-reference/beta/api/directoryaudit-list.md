@@ -115,6 +115,10 @@ GET https://graph.microsoft.com/beta/auditLogs/directoryAudits
 [!INCLUDE [sample-code](../includes/snippets/powershell/get-directoryaudits-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-directoryaudits-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

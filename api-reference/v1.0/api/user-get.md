@@ -155,6 +155,10 @@ GET https://graph.microsoft.com/v1.0/me
 [!INCLUDE [sample-code](../includes/snippets/powershell/get-user-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-user-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 #### Response
@@ -223,6 +227,10 @@ GET https://graph.microsoft.com/v1.0/users/{id | userPrincipalName}?$select=disp
 [!INCLUDE [sample-code](../includes/snippets/powershell/get-user-select-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-user-select-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 #### Response
@@ -256,6 +264,8 @@ In this example, the ID of the schema extension is `ext55gb1l09_msLearnCourses`.
 
 #### Request
 
+
+# [HTTP](#tab/http)
 <!-- {
   "blockType": "request",
   "name": "get_schemaextension"
@@ -263,6 +273,12 @@ In this example, the ID of the schema extension is `ext55gb1l09_msLearnCourses`.
 ```msgraph-interactive
 GET https://graph.microsoft.com/v1.0/users/4562bcc8-c436-4f95-b7c0-4f8ce89dca5e?$select=ext55gb1l09_msLearnCourses
 ```
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-schemaextension-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
+---
+
 
 #### Response
 

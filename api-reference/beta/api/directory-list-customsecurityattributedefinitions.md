@@ -99,6 +99,10 @@ GET https://graph.microsoft.com/beta/directory/customSecurityAttributeDefinition
 [!INCLUDE [sample-code](../includes/snippets/powershell/list-customsecurityattributedefinition-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/list-customsecurityattributedefinition-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 
@@ -193,6 +197,10 @@ GET https://graph.microsoft.com/beta/directory/customSecurityAttributeDefinition
 [!INCLUDE [sample-code](../includes/snippets/powershell/list-customsecurityattributedefinition-filter-name-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/list-customsecurityattributedefinition-filter-name-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 
@@ -274,6 +282,10 @@ GET https://graph.microsoft.com/beta/directory/customSecurityAttributeDefinition
 
 # [PowerShell](#tab/powershell)
 [!INCLUDE [sample-code](../includes/snippets/powershell/list-customsecurityattributedefinition-filter-attributeset-powershell-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/list-customsecurityattributedefinition-filter-attributeset-typescript-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
 ---

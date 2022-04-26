@@ -97,6 +97,10 @@ GET https://graph.microsoft.com/beta/me/calendar/events
 [!INCLUDE [sample-code](../includes/snippets/go/calendar-list-events-go-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/calendar-list-events-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 ##### Response
@@ -199,6 +203,10 @@ GET https://graph.microsoft.com/beta/me/calendar/events?$filter=startsWith(subje
 
 # [Go](#tab/go)
 [!INCLUDE [sample-code](../includes/snippets/go/calendar-list-events-go-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/calendar-list-events-typescript-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
 ---

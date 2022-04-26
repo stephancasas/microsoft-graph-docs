@@ -93,6 +93,10 @@ DELETE https://graph.microsoft.com/v1.0/identity/identityProviders/{id}
 [!INCLUDE [sample-code](../includes/snippets/powershell/delete-identityprovider-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/delete-identityprovider-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

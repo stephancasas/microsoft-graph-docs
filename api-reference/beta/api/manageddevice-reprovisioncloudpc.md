@@ -89,6 +89,10 @@ POST https://graph.microsoft.com/beta/deviceManagement/managedDevices/{managedDe
 [!INCLUDE [sample-code](../includes/snippets/powershell/manageddevice-reprovisioncloudpc-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/manageddevice-reprovisioncloudpc-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

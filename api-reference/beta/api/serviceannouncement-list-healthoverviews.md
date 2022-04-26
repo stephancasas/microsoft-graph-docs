@@ -89,6 +89,10 @@ GET https://graph.microsoft.com/beta/admin/serviceAnnouncement/healthOverviews
 [!INCLUDE [sample-code](../includes/snippets/powershell/list-healthoverviews-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/list-healthoverviews-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 
@@ -163,6 +167,10 @@ GET https://graph.microsoft.com/beta/admin/serviceAnnouncement/healthOverviews?$
 
 # [PowerShell](#tab/powershell)
 [!INCLUDE [sample-code](../includes/snippets/powershell/list-healthoverviews-with-issues-powershell-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/list-healthoverviews-with-issues-typescript-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
 ---

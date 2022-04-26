@@ -55,6 +55,8 @@ Each **delegatedAdminRelationship** object contains an **@odata.etag** property 
 ## Examples
 
 ### Request
+
+# [HTTP](#tab/http)
 <!-- {
   "blockType": "request",
   "name": "list_delegatedadminrelationship"
@@ -63,6 +65,12 @@ Each **delegatedAdminRelationship** object contains an **@odata.etag** property 
 ``` http
 GET https://graph.microsoft.com/beta/tenantRelationships/delegatedAdminRelationships
 ```
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/list-delegatedadminrelationship-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
+---
+
 
 
 ### Response

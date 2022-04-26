@@ -73,6 +73,10 @@ GET https://graph.microsoft.com/beta/sites/{site-id}/lists/{list-id}/items/{item
 [!INCLUDE [sample-code](../includes/snippets/powershell/get-list-item-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-list-item-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

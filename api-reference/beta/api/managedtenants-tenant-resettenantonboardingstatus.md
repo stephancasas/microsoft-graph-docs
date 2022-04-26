@@ -78,6 +78,10 @@ POST https://graph.microsoft.com/beta/tenantRelationships/managedTenants/tenants
 [!INCLUDE [sample-code](../includes/snippets/go/tenant-resettenantonboardingstatus-go-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/tenant-resettenantonboardingstatus-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

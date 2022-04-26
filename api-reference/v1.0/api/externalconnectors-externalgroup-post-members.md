@@ -100,6 +100,10 @@ Content-Type: application/json
 [!INCLUDE [sample-code](../includes/snippets/go/create-aad-user-identity-from-group-go-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/create-aad-user-identity-from-group-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 
@@ -164,6 +168,10 @@ Content-Type: application/json
 [!INCLUDE [sample-code](../includes/snippets/go/create-aad-group-identity-from-group-go-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/create-aad-group-identity-from-group-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 
@@ -225,6 +233,10 @@ Content-Type: application/json
 
 # [Go](#tab/go)
 [!INCLUDE [sample-code](../includes/snippets/go/create-external-group-identity-from-group-go-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/create-external-group-identity-from-group-typescript-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
 ---

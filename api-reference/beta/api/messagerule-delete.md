@@ -80,6 +80,10 @@ DELETE https://graph.microsoft.com/beta/me/mailfolders/inbox/messagerules('AQAAA
 [!INCLUDE [sample-code](../includes/snippets/powershell/delete-messagerule-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/delete-messagerule-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 ##### Response

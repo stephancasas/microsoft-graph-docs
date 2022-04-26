@@ -80,6 +80,10 @@ GET https://graph.microsoft.com/v1.0/education/classes/72a7baec-c3e9-4213-a850-f
 [!INCLUDE [sample-code](../includes/snippets/powershell/get-educationwordresource-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-educationwordresource-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 
@@ -162,6 +166,10 @@ GET https://graph.microsoft.com/v1.0/education/classes/72a7baec-c3e9-4213-a850-f
 
 # [PowerShell](#tab/powershell)
 [!INCLUDE [sample-code](../includes/snippets/powershell/get-educationfileresource-powershell-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-educationfileresource-typescript-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
 ---
@@ -247,6 +255,10 @@ GET https://graph.microsoft.com/v1.0/education/classes/72a7baec-c3e9-4213-a850-f
 [!INCLUDE [sample-code](../includes/snippets/powershell/get-educationexcelresource-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-educationexcelresource-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 #### Response
@@ -328,6 +340,10 @@ GET https://graph.microsoft.com/v1.0/education/classes/72a7baec-c3e9-4213-a850-f
 
 # [PowerShell](#tab/powershell)
 [!INCLUDE [sample-code](../includes/snippets/powershell/get-educationpowerpointresource-powershell-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-educationpowerpointresource-typescript-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
 ---
@@ -413,6 +429,10 @@ GET https://graph.microsoft.com/v1.0/education/classes/72a7baec-c3e9-4213-a850-f
 [!INCLUDE [sample-code](../includes/snippets/powershell/get-educationlinkresource-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-educationlinkresource-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 #### Response
@@ -494,6 +514,10 @@ GET https://graph.microsoft.com/v1.0/education/classes/72a7baec-c3e9-4213-a850-f
 
 # [PowerShell](#tab/powershell)
 [!INCLUDE [sample-code](../includes/snippets/powershell/get-educationmediaresource-powershell-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-educationmediaresource-typescript-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
 ---

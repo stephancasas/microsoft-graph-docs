@@ -79,6 +79,10 @@ GET https://graph.microsoft.com/v1.0/groups/02f3bafb-448c-487c-88c2-5fd65ce49a41
 [!INCLUDE [sample-code](../includes/snippets/powershell/get-posts-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-posts-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 ##### Response

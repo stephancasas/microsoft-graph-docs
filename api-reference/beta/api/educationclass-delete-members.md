@@ -75,6 +75,10 @@ DELETE https://graph.microsoft.com/beta/education/classes/11003/members/14008
 [!INCLUDE [sample-code](../includes/snippets/go/create-educationclass-from-educationschool-1-go-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/create-educationclass-from-educationschool-1-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

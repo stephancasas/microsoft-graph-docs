@@ -93,6 +93,10 @@ GET https://graph.microsoft.com/v1.0/servicePrincipals/8e881353-1735-45af-af21-e
 [!INCLUDE [sample-code](../includes/snippets/powershell/serviceprincipal-get-approleassignments-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/serviceprincipal-get-approleassignments-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

@@ -81,6 +81,10 @@ GET https://graph.microsoft.com/beta/directorySettingTemplates
 [!INCLUDE [sample-code](../includes/snippets/powershell/get-directorysettingtemplates-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-directorysettingtemplates-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 ##### Response

@@ -102,6 +102,10 @@ GET https://graph.microsoft.com/beta/directory/customSecurityAttributeDefinition
 [!INCLUDE [sample-code](../includes/snippets/powershell/list-allowedvalue-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/list-allowedvalue-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

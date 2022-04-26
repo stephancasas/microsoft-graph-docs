@@ -85,6 +85,10 @@ GET https://graph.microsoft.com/beta/sites/{siteId}/lists/{listId}/contentTypes/
 [!INCLUDE [sample-code](../includes/snippets/powershell/contenttype-getcompatiblehubcontenttypes-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/contenttype-getcompatiblehubcontenttypes-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

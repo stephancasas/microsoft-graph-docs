@@ -107,6 +107,10 @@ GET https://graph.microsoft.com/beta/me/authentication/passwordMethods
 [!INCLUDE [sample-code](../includes/snippets/powershell/get-passwordmethods-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-passwordmethods-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

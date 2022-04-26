@@ -95,6 +95,10 @@ Content-Type: application/json
 [!INCLUDE [sample-code](../includes/snippets/go/riskyuser-dismiss-go-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/riskyuser-dismiss-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

@@ -100,6 +100,10 @@ DELETE https://graph.microsoft.com/beta/users/kim@contoso.com/authentication/tem
 [!INCLUDE [sample-code](../includes/snippets/powershell/delete-temporaryaccesspassauthenticationmethod-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/delete-temporaryaccesspassauthenticationmethod-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

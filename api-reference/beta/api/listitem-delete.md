@@ -80,6 +80,10 @@ DELETE https://graph.microsoft.com/beta/sites/{site-id}/lists/{list-id}/items/{i
 [!INCLUDE [sample-code](../includes/snippets/powershell/delete-item-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/delete-item-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

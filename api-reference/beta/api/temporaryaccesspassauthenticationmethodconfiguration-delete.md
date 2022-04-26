@@ -84,6 +84,10 @@ DELETE https://graph.microsoft.com/beta/policies/authenticationMethodsPolicy/aut
 [!INCLUDE [sample-code](../includes/snippets/go/delete-fido2authenticationmethodconfiguration-2-go-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/delete-fido2authenticationmethodconfiguration-2-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

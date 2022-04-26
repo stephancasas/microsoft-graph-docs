@@ -101,6 +101,10 @@ GET https://graph.microsoft.com/beta/users/kim@contoso.com/authentication/tempor
 [!INCLUDE [sample-code](../includes/snippets/powershell/get-temporaryaccesspassauthenticationmethod-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-temporaryaccesspassauthenticationmethod-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

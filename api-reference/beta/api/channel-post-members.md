@@ -98,6 +98,10 @@ Content-type: application/json
 [!INCLUDE [sample-code](../includes/snippets/powershell/channel-add-member-1-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/channel-add-member-1-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 
@@ -173,6 +177,10 @@ Content-type: application/json
 [!INCLUDE [sample-code](../includes/snippets/powershell/channel-add-member-2-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/channel-add-member-2-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 
@@ -246,6 +254,10 @@ Content-type: application/json
 [!INCLUDE [sample-code](../includes/snippets/powershell/channel-add-member-3-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/channel-add-member-3-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 
@@ -281,6 +293,8 @@ Content-type: application/json
 #### Request
 
 The following is an example of a request.
+
+# [HTTP](#tab/http)
 <!-- {
   "blockType": "request",
   "name": "shared_channel_add_intra_tenant_member"
@@ -296,6 +310,12 @@ Content-type: application/json
     "user@odata.bind": "https://graph.microsoft.com/beta/users/24b3819b-4e1d-4f3e-86bd-e42b54d0b2b4"
 }
 ```
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/shared-channel-add-intra-tenant-member-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
+---
+
 
 #### Response
 
@@ -332,6 +352,8 @@ Content-length: 468
 
 The following is an example of a request.
 
+
+# [HTTP](#tab/http)
 <!-- {
   "blockType": "request",
   "name": "shared_channel_add_x_tenant_member"
@@ -348,6 +370,12 @@ Content-type: application/json
     "tenantId": "a18103d1-a6ef-4f66-ac64-e4ef42ea8681"
 }
 ```
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/shared-channel-add-x-tenant-member-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
+---
+
 
 #### Response
 

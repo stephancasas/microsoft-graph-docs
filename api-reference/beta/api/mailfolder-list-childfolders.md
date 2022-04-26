@@ -106,6 +106,10 @@ GET https://graph.microsoft.com/beta/me/mailFolders/AAMkAGVmMDEzM/childFolders
 [!INCLUDE [sample-code](../includes/snippets/powershell/mailfolder-get-childfolders-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/mailfolder-get-childfolders-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 
@@ -204,6 +208,10 @@ GET https://graph.microsoft.com/beta/me/mailFolders/searchfolders/childFolders
 [!INCLUDE [sample-code](../includes/snippets/powershell/get-childfolders-of-searchfolders-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-childfolders-of-searchfolders-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 
@@ -297,6 +305,10 @@ GET https://graph.microsoft.com/beta/me/mailFolders/AAMkAGVmMDEzM/childFolders?i
 
 # [PowerShell](#tab/powershell)
 [!INCLUDE [sample-code](../includes/snippets/powershell/mailfolder-get-hiddenchildfolders-powershell-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/mailfolder-get-hiddenchildfolders-typescript-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
 ---

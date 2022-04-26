@@ -111,6 +111,10 @@ Content-type: application/json
 [!INCLUDE [sample-code](../includes/snippets/powershell/create-accesspackageassignmentpolicy-from-accesspackageassignmentpolicies-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/create-accesspackageassignmentpolicy-from-accesspackageassignmentpolicies-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 #### Response
@@ -556,6 +560,10 @@ Content-type: application/json
 
 # [Go](#tab/go)
 [!INCLUDE [sample-code](../includes/snippets/go/create-accesspackageassignmentpolicy-customaccesspackageworkflowextension-go-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/create-accesspackageassignmentpolicy-customaccesspackageworkflowextension-typescript-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
 ---

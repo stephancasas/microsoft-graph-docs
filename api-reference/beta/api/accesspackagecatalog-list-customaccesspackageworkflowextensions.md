@@ -85,6 +85,10 @@ GET /identityGovernance/entitlementManagement/accessPackageCatalogs/32efb28c-9a7
 [!INCLUDE [sample-code](../includes/snippets/powershell/list-customaccesspackageworkflowextension-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/list-customaccesspackageworkflowextension-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

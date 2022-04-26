@@ -89,6 +89,10 @@ GET https://graph.microsoft.com/v1.0/teams/{teamId}/schedule/timeOffReasons/{tim
 [!INCLUDE [sample-code](../includes/snippets/powershell/timeoffreason-get-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/timeoffreason-get-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 ---

@@ -77,6 +77,10 @@ GET https://graph.microsoft.com/beta/me/mailFolders/inbox/messagerules
 [!INCLUDE [sample-code](../includes/snippets/powershell/get-messagerules-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-messagerules-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 ##### Response

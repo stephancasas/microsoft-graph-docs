@@ -80,6 +80,10 @@ POST https://graph.microsoft.com/beta/roleManagement/directory/roleEligibilitySc
 [!INCLUDE [sample-code](../includes/snippets/powershell/unifiedroleeligibilityschedulerequest-cancel-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/unifiedroleeligibilityschedulerequest-cancel-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

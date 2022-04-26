@@ -104,6 +104,10 @@ Content-type: application/json
 [!INCLUDE [sample-code](../includes/snippets/powershell/create-calendar-from-calendargroup-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/create-calendar-from-calendargroup-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

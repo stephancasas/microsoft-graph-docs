@@ -50,6 +50,8 @@ If successful, this method returns a `200 OK` response code and a collection of 
 ## Examples
 
 ### Request
+
+# [HTTP](#tab/http)
 <!-- {
   "blockType": "request",
   "name": "list_accesspackageassignmentpolicy"
@@ -58,6 +60,12 @@ If successful, this method returns a `200 OK` response code and a collection of 
 ``` http
 GET https://graph.microsoft.com/v1.0/identityGovernance/entitlementManagement/assignmentPolicies
 ```
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/list-accesspackageassignmentpolicy-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
+---
+
 
 
 ### Response

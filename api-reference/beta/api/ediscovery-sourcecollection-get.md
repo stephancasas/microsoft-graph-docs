@@ -99,6 +99,10 @@ GET https://graph.microsoft.com/beta/compliance/ediscovery/cases/47746044-fd0b-4
 [!INCLUDE [sample-code](../includes/snippets/powershell/get-sourcecollection-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-sourcecollection-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

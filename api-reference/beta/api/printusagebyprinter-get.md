@@ -83,6 +83,10 @@ GET https://graph.microsoft.com/beta/print/reports/dailyPrintUsageByPrinter/016b
 [!INCLUDE [sample-code](../includes/snippets/go/get-printusagebyprinter-go-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-printusagebyprinter-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 ### Response

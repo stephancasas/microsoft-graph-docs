@@ -127,6 +127,10 @@ Content-type: application/json
 [!INCLUDE [sample-code](../includes/snippets/powershell/create-unifiedroleassignment-from-rbacapplication-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/create-unifiedroleassignment-from-rbacapplication-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 
@@ -203,6 +207,10 @@ Content-type: application/json
 
 # [PowerShell](#tab/powershell)
 [!INCLUDE [sample-code](../includes/snippets/powershell/create-unifiedroleassignment-over-administrativeunit-powershell-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/create-unifiedroleassignment-over-administrativeunit-typescript-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
 ---
@@ -283,6 +291,10 @@ Content-type: application/json
 [!INCLUDE [sample-code](../includes/snippets/powershell/create-unifiedroleassignment-over-application-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/create-unifiedroleassignment-over-application-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 
@@ -321,6 +333,8 @@ Content-type: application/json
 
 The following is an example of the request.
 
+
+# [HTTP](#tab/http)
 <!-- {
   "blockType": "request",
   "name": "create_unifiedroleassignment3_from_rbacapplication_4"
@@ -336,6 +350,12 @@ Content-type: application/json
     "appScopeId": "/AccessPackageCatalog/beedadfe-01d5-4025-910b-84abb9369997"
 }
 ```
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/create-unifiedroleassignment3-from-rbacapplication-4-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
+---
+
 
 #### Response
 

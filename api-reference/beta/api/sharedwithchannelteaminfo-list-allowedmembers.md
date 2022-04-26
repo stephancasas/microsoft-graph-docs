@@ -64,6 +64,8 @@ If successful, this method returns a `200 OK` response code and a collection of 
 
 ### Request
 The following is an example of the request.
+
+# [HTTP](#tab/http)
 <!-- {
   "blockType": "request",
   "name": "list_conversationmember"
@@ -72,6 +74,12 @@ The following is an example of the request.
 ``` http
 GET https://graph.microsoft.com/beta/teams/893075dd-2487-5634-925f-022c42e20265/channels/19:561fbdbbfca848a484f0a6f00ce9dbbd@thread.tacv2/sharedWithTeams/893075dd-2487-5634-925f-022c42e20265/allowedMembers
 ```
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/list-conversationmember-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
+---
+
 
 
 ### Response

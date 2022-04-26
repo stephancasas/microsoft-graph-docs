@@ -64,6 +64,8 @@ This method typically returns a `202 Accepted` response code with a URL to a lon
 ## Examples
 
 ### Request
+
+# [HTTP](#tab/http)
 <!-- {
   "blockType": "request",
   "name": "update_delegatedadminaccessassignment",
@@ -91,6 +93,12 @@ Content-Type: application/json
   }
 }
 ```
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/update-delegatedadminaccessassignment-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
+---
+
 
 ### Response
 The following is an example response that returns a `202 Accepted` response code along with **Location** and **Retry-After** headers.

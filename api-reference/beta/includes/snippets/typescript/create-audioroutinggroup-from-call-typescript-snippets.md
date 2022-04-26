@@ -1,0 +1,24 @@
+---
+description: "Automatically generated file. DO NOT MODIFY"
+---
+
+```typescript
+
+//THIS SNIPPET IS A PREVIEW FOR THE KIOTA BASED SDK. NON-PRODUCTION USE ONLY
+const graphServiceClient = GraphServiceClient.init({authProvider});
+
+const requestBody = new AudioRoutingGroup();
+requestBody.id = "oneToOne";
+requestBody.routingMode = RoutingMode.OneToOne;
+requestBody.sources = [
+			"632899f8-2ea1-4604-8413-27bd2892079f"
+		]
+requestBody.receivers = [
+			"550fae72-d251-43ec-868c-373732c2704f"
+		]
+const result = async () => {
+	await graphServiceClient.communications.callsById("call-id").audioRoutingGroups.post(requestBody);
+}
+
+
+```

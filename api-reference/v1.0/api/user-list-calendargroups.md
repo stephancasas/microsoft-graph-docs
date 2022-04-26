@@ -77,6 +77,10 @@ GET https://graph.microsoft.com/v1.0/me/calendarGroups
 [!INCLUDE [sample-code](../includes/snippets/powershell/get-calendargroups-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-calendargroups-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 ##### Response

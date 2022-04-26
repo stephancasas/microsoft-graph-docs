@@ -88,6 +88,10 @@ PATCH https://graph.microsoft.com/beta/print/taskDefinitions/3203656e-6069-4e10-
 [!INCLUDE [sample-code](../includes/snippets/go/update-task-go-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/update-task-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

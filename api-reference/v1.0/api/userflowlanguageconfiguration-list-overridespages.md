@@ -90,6 +90,10 @@ GET https://graph.microsoft.com/v1.0/identity/b2xUserFlows/B2X_1_Partner/languag
 [!INCLUDE [sample-code](../includes/snippets/go/get-userflowlanguagepage-2-go-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-userflowlanguagepage-2-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

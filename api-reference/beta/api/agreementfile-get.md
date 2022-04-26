@@ -81,6 +81,10 @@ GET https://graph.microsoft.com/beta/identityGovernance/termsOfUse/agreements/94
 [!INCLUDE [sample-code](../includes/snippets/go/get-agreementfile-go-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-agreementfile-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

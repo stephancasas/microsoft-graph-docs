@@ -113,6 +113,10 @@ Prefer: odata.maxpagesize=2
 [!INCLUDE [sample-code](../includes/snippets/powershell/contactfolder-delta-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/contactfolder-delta-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

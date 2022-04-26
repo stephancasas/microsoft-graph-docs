@@ -91,6 +91,10 @@ GET https://graph.microsoft.com/beta/deviceManagement/virtualEndpoint/galleryIma
 [!INCLUDE [sample-code](../includes/snippets/powershell/list-cloudpcgalleryimage-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/list-cloudpcgalleryimage-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

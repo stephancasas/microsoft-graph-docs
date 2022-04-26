@@ -91,6 +91,10 @@ GET https://graph.microsoft.com/beta/print/shares/{id}
 [!INCLUDE [sample-code](../includes/snippets/powershell/get-printershare-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-printershare-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 ### Response

@@ -88,6 +88,10 @@ GET https://graph.microsoft.com/beta/applications/acd7c908-1c4d-4d48-93ee-ff3834
 [!INCLUDE [sample-code](../includes/snippets/powershell/get-federatedidentitycredential-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-federatedidentitycredential-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

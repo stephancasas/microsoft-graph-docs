@@ -81,6 +81,10 @@ DELETE https://graph.microsoft.com/beta/users/{userId}/profile/addresses/{id}
 [!INCLUDE [sample-code](../includes/snippets/powershell/delete-itemaddress-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/delete-itemaddress-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 ### Response

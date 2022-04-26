@@ -98,6 +98,10 @@ GET https://graph.microsoft.com/v1.0/me/mailFolders/{id}/childFolders
 [!INCLUDE [sample-code](../includes/snippets/powershell/mailfolder-get-childfolders-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/mailfolder-get-childfolders-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 ##### Response
@@ -164,6 +168,10 @@ GET https://graph.microsoft.com/v1.0/me/mailFolders/{id}/childFolders?includeHid
 
 # [PowerShell](#tab/powershell)
 [!INCLUDE [sample-code](../includes/snippets/powershell/mailfolder-get-hiddenchildfolders-powershell-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/mailfolder-get-hiddenchildfolders-typescript-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
 ---

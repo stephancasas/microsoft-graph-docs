@@ -79,6 +79,10 @@ GET https://graph.microsoft.com/beta/sites?$select=siteCollection,webUrl&$filter
 [!INCLUDE [sample-code](../includes/snippets/powershell/list-sites-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/list-sites-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

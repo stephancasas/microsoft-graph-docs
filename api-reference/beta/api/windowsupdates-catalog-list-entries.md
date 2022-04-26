@@ -89,6 +89,10 @@ GET https://graph.microsoft.com/beta/admin/windows/updates/catalog/entries
 [!INCLUDE [sample-code](../includes/snippets/powershell/list-catalogentry-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/list-catalogentry-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 
