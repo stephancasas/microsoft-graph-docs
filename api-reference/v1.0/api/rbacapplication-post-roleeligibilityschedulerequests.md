@@ -64,6 +64,8 @@ If successful, this method returns a `201 Created` response code and an [unified
 ### Example 1: Admin to assign a role eligibility schedule request
 
 #### Request
+
+# [HTTP](#tab/http)
 <!-- {
   "blockType": "request",
   "name": "create_unifiedroleeligibilityschedulerequest_from_"
@@ -88,6 +90,12 @@ Content-Type: application/json
     }
 }
 ```
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/create-unifiedroleeligibilityschedulerequest-from--typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
+---
+
 
 
 ### Response
@@ -147,6 +155,8 @@ Content-Type: application/json
 In the following request, the admin creates a request to revoke the eligibility of a principal with ID `071cc716-8147-4397-a5ba-b2105951cc0b` to a role with ID `8424c6f0-a189-499e-bbd0-26c1753c96d4`.
 
 #### Request
+
+# [HTTP](#tab/http)
 <!-- {
   "blockType": "request",
   "name": "create_unifiedroleeligibilityschedulerequest_from_unifiedroleeligibilityschedulerequests_adminRemove"
@@ -163,6 +173,12 @@ Content-Type: application/json
     "principalId": "071cc716-8147-4397-a5ba-b2105951cc0b"
 }
 ```
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/create-unifiedroleeligibilityschedulerequest-from-unifiedroleeligibilityschedulerequests-adminremove-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
+---
+
 
 
 #### Response

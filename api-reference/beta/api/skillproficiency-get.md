@@ -93,6 +93,10 @@ GET https://graph.microsoft.com/beta/me/profile/skills/{id}
 [!INCLUDE [sample-code](../includes/snippets/powershell/get-skillproficiency-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-skillproficiency-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

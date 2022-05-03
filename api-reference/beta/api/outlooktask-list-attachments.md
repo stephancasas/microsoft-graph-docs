@@ -94,6 +94,10 @@ GET https://graph.microsoft.com/beta/users/{id}/outlook/tasks/{id}/attachments
 [!INCLUDE [sample-code](../includes/snippets/powershell/outlook-task-get-attachments-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/outlook-task-get-attachments-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

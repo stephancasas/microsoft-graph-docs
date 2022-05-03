@@ -83,6 +83,10 @@ GET https://graph.microsoft.com/beta/privilegedApproval/myRequests
 [!INCLUDE [sample-code](../includes/snippets/powershell/privilegedapproval-myrequests-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/privilegedapproval-myrequests-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

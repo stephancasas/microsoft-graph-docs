@@ -58,6 +58,8 @@ If successful, this function returns a `200 OK` response code and a [unifiedRole
 ## Examples
 
 ### Request
+
+# [HTTP](#tab/http)
 <!-- {
   "blockType": "request",
   "name": "unifiedroleeligibilityschedulerequestthis.filterbycurrentuser"
@@ -66,6 +68,12 @@ If successful, this function returns a `200 OK` response code and a [unifiedRole
 ``` http
 GET https://graph.microsoft.com/v1.0/roleManagement/directory/roleEligibilityScheduleRequests/filterByCurrentUser(on='principal')
 ```
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/unifiedroleeligibilityschedulerequestthisfilterbycurrentuser-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
+---
+
 
 
 ### Response

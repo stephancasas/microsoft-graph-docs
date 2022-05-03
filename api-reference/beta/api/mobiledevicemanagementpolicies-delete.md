@@ -92,6 +92,10 @@ DELETE https://graph.microsoft.com/beta/policies/mobileDeviceManagementPolicies/
 [!INCLUDE [sample-code](../includes/snippets/powershell/delete-mobilitymanagementpolicy-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/delete-mobilitymanagementpolicy-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

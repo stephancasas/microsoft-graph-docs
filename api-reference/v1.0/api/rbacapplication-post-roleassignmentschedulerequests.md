@@ -69,6 +69,8 @@ If successful, this method returns a `201 Created` response code and an [unified
 ### Example 1: Admin assigning a directory role to a principal
 
 #### Request
+
+# [HTTP](#tab/http)
 <!-- {
   "blockType": "request",
   "name": "create_unifiedroleassignmentschedulerequest_from_"
@@ -92,6 +94,12 @@ Content-Type: application/json
     }
 }
 ```
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/create-unifiedroleassignmentschedulerequest-from--typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
+---
+
 
 
 #### Response
@@ -154,6 +162,8 @@ In the following request, a user identified by **principalId** `071cc716-8147-43
 
 To retrieve the details of their eligibility requests and identify the eligibility to activate, the user will call the [unifiedRoleEligibilitySchedule: filterByCurrentUser](unifiedroleeligibilityschedule-filterbycurrentuser.md) API.
 
+
+# [HTTP](#tab/http)
 <!-- {
   "blockType": "request",
   "name": "create_unifiedroleassignmentschedulerequest_from_unifiedroleassignmentschedulerequests_selfActivate"
@@ -182,6 +192,12 @@ Content-Type: application/json
     }
 }
 ```
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/create-unifiedroleassignmentschedulerequest-from-unifiedroleassignmentschedulerequests-selfactivate-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
+---
+
 
 
 

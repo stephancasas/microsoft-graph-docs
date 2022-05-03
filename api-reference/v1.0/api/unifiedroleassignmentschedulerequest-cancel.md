@@ -46,6 +46,8 @@ If successful, this action returns a `204 No Content` response code. Attempting 
 ## Examples
 
 ### Request
+
+# [HTTP](#tab/http)
 <!-- {
   "blockType": "request",
   "name": "unifiedroleassignmentschedulerequestthis.cancel"
@@ -54,6 +56,12 @@ If successful, this action returns a `204 No Content` response code. Attempting 
 ```msgraph-interactive
 POST https://graph.microsoft.com/v1.0/roleManagement/directory/roleAssignmentScheduleRequests/95c690fb-3eb3-4942-a03f-4524aed6f31e/cancel
 ```
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/unifiedroleassignmentschedulerequestthiscancel-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
+---
+
 
 
 ### Response

@@ -92,6 +92,10 @@ GET https://graph.microsoft.com/v1.0/print/services/{printServiceId}/endpoints
 [!INCLUDE [sample-code](../includes/snippets/powershell/list-printserviceendpoint-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/list-printserviceendpoint-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 ### Response

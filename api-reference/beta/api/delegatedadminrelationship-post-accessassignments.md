@@ -57,6 +57,8 @@ If successful, this method returns a `201 Created` response code and a [delegate
 ## Examples
 
 ### Request
+
+# [HTTP](#tab/http)
 <!-- {
   "blockType": "request",
   "name": "create_delegatedadminaccessassignment_from_"
@@ -89,6 +91,12 @@ Content-Type: application/json
   }
 }
 ```
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/create-delegatedadminaccessassignment-from--typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
+---
+
 
 
 ### Response

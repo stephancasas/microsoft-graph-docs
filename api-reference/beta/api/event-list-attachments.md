@@ -101,6 +101,10 @@ GET https://graph.microsoft.com/beta/me/events/{id}/attachments
 [!INCLUDE [sample-code](../includes/snippets/powershell/event-get-attachments-beta-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/event-get-attachments-beta-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

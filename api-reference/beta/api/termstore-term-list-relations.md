@@ -83,6 +83,10 @@ GET https://graph.microsoft.com/beta/termStore/sets/{setId}/relations
 [!INCLUDE [sample-code](../includes/snippets/go/get-relation-go-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-relation-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

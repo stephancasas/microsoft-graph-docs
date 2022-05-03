@@ -77,6 +77,10 @@ GET https://graph.microsoft.com/beta/education/schools/10002/classes
 [!INCLUDE [sample-code](../includes/snippets/powershell/get-classes-2-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-classes-2-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 ##### Response

@@ -108,6 +108,10 @@ GET https://graph.microsoft.com/beta/me/authentication/phoneMethods
 [!INCLUDE [sample-code](../includes/snippets/powershell/get-phonemethods-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-phonemethods-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

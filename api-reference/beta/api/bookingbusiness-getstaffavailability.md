@@ -52,12 +52,14 @@ If successful, this method returns a `200 OK` response code and a [staffAvailabi
 ### Request
 The following is an example of a request.
 
+
+# [HTTP](#tab/http)
 <!-- {
   "blockType": "request",
   "name": "bookingbusiness_getstaffavailability"
 }-->
 
-```http
+```msgraph-interactive
 GET https://graph.microsoft.com/beta/bookingBusinesses/Contosolunchdelivery@contoso.onmicrosoft.com/getStaffAvailability 
 Content-Type: application/json 
 
@@ -75,6 +77,12 @@ Content-Type: application/json
     } 
 }
 ```
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/bookingbusiness-getstaffavailability-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
+---
+
 
 ### Response
 

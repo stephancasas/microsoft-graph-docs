@@ -68,6 +68,8 @@ A direct assignment policy is useful when access package assignment requests wil
 
 The following example shows a request to create an access package assignment policy. In this policy, no users can request, no approval is required, and there are no access reviews.
 
+
+# [HTTP](#tab/http)
 <!-- {
   "blockType": "request",
   "name": "create_accesspackageassignmentpolicy_from_"
@@ -107,6 +109,12 @@ Content-Type: application/json
   }
 }
 ```
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/create-accesspackageassignmentpolicy-from--typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
+---
+
 
 #### Response
 >**Note:** The response object shown here might be shortened for readability.

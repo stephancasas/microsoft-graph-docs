@@ -96,6 +96,10 @@ GET https://graph.microsoft.com/beta/devices/{objectId}/usageRights
 [!INCLUDE [sample-code](../includes/snippets/powershell/list-usageright-1-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/list-usageright-1-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

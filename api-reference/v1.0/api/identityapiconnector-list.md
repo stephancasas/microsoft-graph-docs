@@ -94,6 +94,10 @@ GET https://graph.microsoft.com/v1.0/identity/apiConnectors
 [!INCLUDE [sample-code](../includes/snippets/go/list-identityapiconnectors-go-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/list-identityapiconnectors-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

@@ -82,6 +82,10 @@ POST https://graph.microsoft.com/v1.0/print/printers/{printerId}/restoreFactoryD
 [!INCLUDE [sample-code](../includes/snippets/powershell/printer-restorefactorydefaults-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/printer-restorefactorydefaults-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 
