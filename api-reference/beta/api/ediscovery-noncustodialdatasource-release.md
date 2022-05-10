@@ -89,6 +89,10 @@ POST https://graph.microsoft.com/beta/compliance/ediscovery/cases/5b840b94-f821-
 [!INCLUDE [sample-code](../includes/snippets/powershell/noncustodialdatasource-release-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/noncustodialdatasource-release-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

@@ -82,6 +82,10 @@ GET https://graph.microsoft.com/v1.0/reports/dailyPrintUsageByUser/{id}
 [!INCLUDE [sample-code](../includes/snippets/go/get-printusagebyuser-go-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-printusagebyuser-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

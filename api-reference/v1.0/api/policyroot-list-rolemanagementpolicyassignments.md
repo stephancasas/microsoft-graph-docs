@@ -81,6 +81,10 @@ GET https://graph.microsoft.com/v1.0/policies/roleManagementPolicyAssignments?$f
 [!INCLUDE [sample-code](../includes/snippets/go/list-unifiedrolemanagementpolicyassignment-go-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/list-unifiedrolemanagementpolicyassignment-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 
@@ -150,6 +154,10 @@ GET https://graph.microsoft.com/v1.0/policies/roleManagementPolicyAssignments?$f
 
 # [Go](#tab/go)
 [!INCLUDE [sample-code](../includes/snippets/go/list-unifiedrolemanagementpolicyassignment-expand-all-relationships-go-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/list-unifiedrolemanagementpolicyassignment-expand-all-relationships-typescript-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
 ---

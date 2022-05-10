@@ -79,6 +79,10 @@ GET https://graph.microsoft.com/v1.0/roleManagement/directory/roleEligibilitySch
 [!INCLUDE [sample-code](../includes/snippets/go/get-unifiedroleeligibilityscheduleinstance-go-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-unifiedroleeligibilityscheduleinstance-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

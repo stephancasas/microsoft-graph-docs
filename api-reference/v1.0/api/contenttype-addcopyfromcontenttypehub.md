@@ -66,6 +66,8 @@ The following example adds or syncs a content type synchronously based on certai
 
 The following is an example of a synchronous operation.
 
+
+# [HTTP](#tab/http)
 <!-- {
   "blockType": "request",
   "name": "contenttype_addcopyfromcontenttypehub"
@@ -80,6 +82,12 @@ Content-length: 33
   "contentTypeId": "0x0101"
 }
 ```
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/contenttype-addcopyfromcontenttypehub-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
+---
+
 
 #### Response
 

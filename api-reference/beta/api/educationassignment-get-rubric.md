@@ -86,6 +86,10 @@ GET https://graph.microsoft.com/beta/education/classes/{id}/assignments/{id}/rub
 [!INCLUDE [sample-code](../includes/snippets/powershell/get-rubric-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-rubric-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

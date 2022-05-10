@@ -90,6 +90,10 @@ GET https://graph.microsoft.com/beta/policies/activityBasedTimeoutPolicies
 [!INCLUDE [sample-code](../includes/snippets/powershell/get-activitybasedtimeoutpolicies-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-activitybasedtimeoutpolicies-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

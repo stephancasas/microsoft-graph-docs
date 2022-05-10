@@ -90,6 +90,10 @@ GET https://graph.microsoft.com/beta/onPremisesPublishingProfiles/provisioning/p
 [!INCLUDE [sample-code](../includes/snippets/powershell/get-publishedresource-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-publishedresource-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

@@ -78,6 +78,10 @@ GET https://graph.microsoft.com/v1.0/applications/{id}/owners
 [!INCLUDE [sample-code](../includes/snippets/powershell/application-get-owners-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/application-get-owners-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 ##### Response

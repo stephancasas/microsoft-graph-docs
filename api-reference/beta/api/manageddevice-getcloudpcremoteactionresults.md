@@ -89,6 +89,10 @@ GET https://graph.microsoft.com/beta/deviceManagement/managedDevices/{managedDev
 [!INCLUDE [sample-code](../includes/snippets/powershell/manageddevice-getcloudpcremoteactionresults-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/manageddevice-getcloudpcremoteactionresults-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

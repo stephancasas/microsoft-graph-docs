@@ -87,6 +87,10 @@ DELETE https://graph.microsoft.com/v1.0/groups/{id}/acceptedSenders/$ref?$id=htt
 [!INCLUDE [sample-code](../includes/snippets/go/delete-acceptedsenders-from-group-go-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/delete-acceptedsenders-from-group-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 #### Response

@@ -81,6 +81,10 @@ DELETE https://graph.microsoft.com/v1.0/chats/19:cf66807577b149cca1b7af0c32eec12
 [!INCLUDE [sample-code](../includes/snippets/powershell/delete-members-from-chat-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/delete-members-from-chat-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

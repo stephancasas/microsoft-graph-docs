@@ -81,6 +81,10 @@ GET https://graph.microsoft.com/v1.0/policies/roleManagementPolicies?$filter=sco
 [!INCLUDE [sample-code](../includes/snippets/go/list-unifiedrolemanagementpolicy-go-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/list-unifiedrolemanagementpolicy-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 
@@ -133,6 +137,8 @@ Content-Type: application/json
 ### Example 2: Retrieve the role management policies that apply to the directory and expand the associated rules
 
 #### Request
+
+# [HTTP](#tab/http)
 <!-- {
   "blockType": "request",
   "name": "list_unifiedrolemanagementpolicy_expand_rules"
@@ -141,6 +147,12 @@ Content-Type: application/json
 ```msgraph-interactive
 GET https://graph.microsoft.com/v1.0/policies/roleManagementPolicies?$filter=scopeId eq '/' and scopeType eq 'Directory'&$expand=rules
 ```
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/list-unifiedrolemanagementpolicy-expand-rules-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
+---
+
 
 #### Response
 >**Note:** The response object shown here might be shortened for readability.

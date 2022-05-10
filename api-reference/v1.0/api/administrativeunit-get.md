@@ -80,6 +80,10 @@ GET https://graph.microsoft.com/v1.0/directory/administrativeUnits/4d7ea995-bc0f
 [!INCLUDE [sample-code](../includes/snippets/powershell/get-administrativeunit-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-administrativeunit-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

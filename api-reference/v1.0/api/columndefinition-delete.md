@@ -84,6 +84,10 @@ DELETE https://graph.microsoft.com/v1.0/sites/{site-id}/contentTypes/{contentTyp
 [!INCLUDE [sample-code](../includes/snippets/powershell/delete-columns-from-contenttype-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/delete-columns-from-contenttype-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

@@ -52,6 +52,8 @@ If successful, this function returns a `200 OK` response code and a collection o
 
 The following is an example of a request.
 
+
+# [HTTP](#tab/http)
 <!-- {
   "blockType": "request",
   "name": "contenttype_getcompatiblehubcontenttypes"
@@ -60,6 +62,12 @@ The following is an example of a request.
 ``` http
 GET https://graph.microsoft.com/v1.0/sites/root/lists/Documents/contentTypes/getCompatibleHubContentTypes
 ```
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/contenttype-getcompatiblehubcontenttypes-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
+---
+
 
 ### Response
 

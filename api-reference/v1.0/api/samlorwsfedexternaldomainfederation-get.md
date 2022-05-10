@@ -62,6 +62,8 @@ If successful, this method returns a `200 OK` response code and a [samlOrWsFedEx
 
 ### Request
 
+
+# [HTTP](#tab/http)
 <!-- {
   "blockType": "request",
   "name": "get_samlorwsfedexternaldomainfederation"
@@ -71,6 +73,12 @@ If successful, this method returns a `200 OK` response code and a [samlOrWsFedEx
 ``` http
 GET https://graph.microsoft.com/beta/directory/federationConfigurations/graph.samlOrWsFedExternalDomainFederation?$filter=domains/any(x: x/id eq 'contoso.com')
 ```
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-samlorwsfedexternaldomainfederation-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
+---
+
 
 ### Response
 

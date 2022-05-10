@@ -87,6 +87,10 @@ DELETE https://graph.microsoft.com/beta/policies/permissionGrantPolicies/my-cust
 [!INCLUDE [sample-code](../includes/snippets/powershell/permissiongrantpolicy-delete-includes-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/permissiongrantpolicy-delete-includes-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

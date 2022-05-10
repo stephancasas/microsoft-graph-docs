@@ -86,6 +86,10 @@ GET https://graph.microsoft.com/beta/trustFramework/keySets
 [!INCLUDE [sample-code](../includes/snippets/powershell/get-keysets-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-keysets-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

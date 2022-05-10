@@ -83,6 +83,10 @@ GET https://graph.microsoft.com/beta/identityProtection/riskyServicePrincipals
 [!INCLUDE [sample-code](../includes/snippets/go/list-riskyserviceprincipal-go-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/list-riskyserviceprincipal-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

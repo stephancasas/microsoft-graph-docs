@@ -107,6 +107,10 @@ GET https://graph.microsoft.com/beta/users/{id|userPrincipalName}/manager
 [!INCLUDE [sample-code](../includes/snippets/powershell/get-manager-2-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-manager-2-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 #### Response
@@ -171,6 +175,10 @@ ConsistencyLevel: eventual
 
 # [Java](#tab/java)
 [!INCLUDE [sample-code](../includes/snippets/java/get-transitive-managers-java-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-transitive-managers-typescript-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
 ---

@@ -111,6 +111,10 @@ GET https://graph.microsoft.com/v1.0/identityGovernance/termsOfUse/agreements/09
 [!INCLUDE [sample-code](../includes/snippets/powershell/get-agreement-files-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-agreement-files-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

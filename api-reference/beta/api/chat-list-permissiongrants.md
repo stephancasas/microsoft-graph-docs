@@ -90,6 +90,10 @@ GET https://graph.microsoft.com/beta/chats/19:089ac694c48647c68035aae675cf78ab@t
 [!INCLUDE [sample-code](../includes/snippets/powershell/chat-list-permission-grants-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/chat-list-permission-grants-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

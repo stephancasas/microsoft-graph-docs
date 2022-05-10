@@ -102,6 +102,10 @@ GET https://graph.microsoft.com/beta/groups/{id}/acceptedSenders
 [!INCLUDE [sample-code](../includes/snippets/powershell/get-acceptedsenders-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-acceptedsenders-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 #### Response

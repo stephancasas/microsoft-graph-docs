@@ -1,0 +1,18 @@
+---
+description: "Automatically generated file. DO NOT MODIFY"
+---
+
+```typescript
+
+//THIS SNIPPET IS A PREVIEW FOR THE KIOTA BASED SDK. NON-PRODUCTION USE ONLY
+const graphServiceClient = GraphServiceClient.init({authProvider});
+
+let requestParameters = {
+	expand : "accessPackageResourceRoleScopes($expand=accessPackageResourceRole,accessPackageResourceScope)",
+};
+const result = async () => {
+	await graphServiceClient.identityGovernance.entitlementManagement.accessPackagesById("accessPackage-id").get(requestParameters);
+}
+
+
+```

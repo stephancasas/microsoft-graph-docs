@@ -87,6 +87,10 @@ GET https://graph.microsoft.com/beta/teams/{teamId}/schedule/timeOffReasons
 [!INCLUDE [sample-code](../includes/snippets/powershell/schedule-list-timeoffreasons-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/schedule-list-timeoffreasons-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

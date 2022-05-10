@@ -104,6 +104,10 @@ DELETE https://graph.microsoft.com/beta/directory/deleteditems/46cc6179-19d0-473
 [!INCLUDE [sample-code](../includes/snippets/powershell/delete-directory-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/delete-directory-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 ##### Response

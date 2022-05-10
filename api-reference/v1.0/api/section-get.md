@@ -82,6 +82,10 @@ GET https://graph.microsoft.com/v1.0/me/onenote/sections/{id}
 [!INCLUDE [sample-code](../includes/snippets/powershell/get-section-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-section-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 ##### Response

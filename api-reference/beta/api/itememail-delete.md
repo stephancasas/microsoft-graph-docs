@@ -88,6 +88,10 @@ DELETE https://graph.microsoft.com/beta/me/profile/emails/{id}
 [!INCLUDE [sample-code](../includes/snippets/powershell/delete-itememail-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/delete-itememail-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 ### Response

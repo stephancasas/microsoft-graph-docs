@@ -92,6 +92,10 @@ GET https://graph.microsoft.com/beta/identity/conditionalAccess/namedLocations
 [!INCLUDE [sample-code](../includes/snippets/powershell/get-namedlocations-1-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-namedlocations-1-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 
@@ -206,6 +210,10 @@ GET https://graph.microsoft.com/beta/identity/conditionalAccess/namedLocations?$
 [!INCLUDE [sample-code](../includes/snippets/powershell/get-namedlocations-2-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-namedlocations-2-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 
@@ -308,6 +316,10 @@ GET https://graph.microsoft.com/beta/identity/conditionalAccess/namedLocations?$
 [!INCLUDE [sample-code](../includes/snippets/powershell/get-namedlocations-3-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-namedlocations-3-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 
@@ -390,6 +402,10 @@ GET https://graph.microsoft.com/beta/identity/conditionalAccess/namedLocations?$
 
 # [PowerShell](#tab/powershell)
 [!INCLUDE [sample-code](../includes/snippets/powershell/get-namedlocations-4-powershell-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-namedlocations-4-typescript-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
 ---

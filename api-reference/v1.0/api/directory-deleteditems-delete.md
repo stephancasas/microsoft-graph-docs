@@ -102,6 +102,10 @@ DELETE https://graph.microsoft.com/v1.0/directory/deletedItems/{object-id}
 [!INCLUDE [sample-code](../includes/snippets/powershell/delete-directory-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/delete-directory-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 ##### Response

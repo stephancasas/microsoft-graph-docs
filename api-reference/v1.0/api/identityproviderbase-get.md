@@ -93,6 +93,10 @@ GET https://graph.microsoft.com/v1.0/identity/identityProviders/Amazon-OAUTH
 [!INCLUDE [sample-code](../includes/snippets/go/get-socialidentityprovider-from-identityproviderbase-go-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-socialidentityprovider-from-identityproviderbase-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 #### Response
@@ -156,6 +160,10 @@ GET https://graph.microsoft.com/v1.0/identity/identityProviders/MSASignup-OAUTH
 [!INCLUDE [sample-code](../includes/snippets/go/get-builtinidentityprovider-from-identityproviderbase-go-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-builtinidentityprovider-from-identityproviderbase-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 #### Response
@@ -215,6 +223,10 @@ GET https://graph.microsoft.com/v1.0/identity/identityProviders/Apple-Managed-OI
 
 # [Go](#tab/go)
 [!INCLUDE [sample-code](../includes/snippets/go/get-applemanagedidentityprovider-from-identityproviderbase-go-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-applemanagedidentityprovider-from-identityproviderbase-typescript-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
 ---

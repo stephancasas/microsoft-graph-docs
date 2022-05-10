@@ -86,6 +86,10 @@ GET https://graph.microsoft.com/beta/identityGovernance/termsOfUse/agreements/94
 [!INCLUDE [sample-code](../includes/snippets/powershell/list-agreementfilelocalization-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/list-agreementfilelocalization-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

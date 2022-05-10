@@ -78,6 +78,10 @@ GET https://graph.microsoft.com/beta/directoryRoleTemplates/{id}
 [!INCLUDE [sample-code](../includes/snippets/powershell/get-directoryroletemplate-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-directoryroletemplate-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 ##### Response
