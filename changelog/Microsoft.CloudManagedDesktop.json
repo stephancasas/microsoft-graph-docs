@@ -1966,8 +1966,8 @@
                     "ApiChange": "Method",
                     "ChangedApiName": "getCloudPcConnectivityHistory",
                     "ChangeType": "Addition",
-                    "Description": "Added the [getCloudPcConnectivityHistory](https://docs.microsoft.com/en-us/graph/api/getCloudPcConnectivityHistory?view=graph-rest-beta) method to the [getCloudPcConnectivityHistory](https://docs.microsoft.com/en-us/graph/api/getCloudPcConnectivityHistory?view=graph-rest-beta) resource.",
-                    "Target": "getCloudPcConnectivityHistory"
+                    "Description": "Added the [getCloudPcConnectivityHistory](https://docs.microsoft.com/en-us/graph/api/cloudPC-getCloudPcConnectivityHistory?view=graph-rest-beta) method to the [cloudPC](https://docs.microsoft.com/en-us/graph/resources/cloudPC?view=graph-rest-beta) resource.",
+                    "Target": "cloudPC"
                 }
             ],
             "Id": "9c66c399-83ee-4cd8-aadb-59ab36d52dbd",
