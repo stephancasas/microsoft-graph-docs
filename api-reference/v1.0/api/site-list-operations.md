@@ -87,6 +87,10 @@ GET https://graph.microsoft.com/v1.0/sites/root/operations
 [!INCLUDE [sample-code](../includes/snippets/powershell/list-richlongrunningoperation-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/list-richlongrunningoperation-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

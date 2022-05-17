@@ -142,6 +142,10 @@ GET https://graph.microsoft.com/beta/roleManagement/directory/roleDefinitions
 [!INCLUDE [sample-code](../includes/snippets/powershell/get-roledefinitions-directory-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-roledefinitions-directory-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 
@@ -293,6 +297,10 @@ GET https://graph.microsoft.com/beta/roleManagement/cloudPC/roleDefinitions
 [!INCLUDE [sample-code](../includes/snippets/powershell/get-roledefinitions-cloudpc-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-roledefinitions-cloudpc-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 
@@ -422,6 +430,10 @@ GET https://graph.microsoft.com/beta/roleManagement/entitlementManagement/roleDe
 
 # [PowerShell](#tab/powershell)
 [!INCLUDE [sample-code](../includes/snippets/powershell/get-roledefinitions-entitlementmanagement-powershell-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-roledefinitions-entitlementmanagement-typescript-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
 ---

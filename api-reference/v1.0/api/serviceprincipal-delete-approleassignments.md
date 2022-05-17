@@ -90,6 +90,10 @@ DELETE https://graph.microsoft.com/v1.0/servicePrincipals/{servicePrincipal-id}/
 [!INCLUDE [sample-code](../includes/snippets/powershell/serviceprincipal-delete-approleassignment-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/serviceprincipal-delete-approleassignment-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

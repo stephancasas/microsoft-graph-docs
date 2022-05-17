@@ -79,6 +79,10 @@ GET https://graph.microsoft.com/v1.0/privacy/subjectRightsRequests/{subjectRight
 [!INCLUDE [sample-code](../includes/snippets/go/list-authorednote-go-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/list-authorednote-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

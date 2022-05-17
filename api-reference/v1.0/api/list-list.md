@@ -82,6 +82,10 @@ GET https://graph.microsoft.com/v1.0/sites/{site-id}/lists
 [!INCLUDE [sample-code](../includes/snippets/powershell/enum-lists-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/enum-lists-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

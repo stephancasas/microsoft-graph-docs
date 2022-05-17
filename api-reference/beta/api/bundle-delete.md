@@ -85,6 +85,10 @@ DELETE https://graph.microsoft.com/beta/drive/items/{bundle-id}
 [!INCLUDE [sample-code](../includes/snippets/go/delete-bundle-go-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/delete-bundle-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

@@ -87,6 +87,10 @@ DELETE https://graph.microsoft.com/v1.0/teams/{teamId}/schedule/timeOffRequests/
 [!INCLUDE [sample-code](../includes/snippets/powershell/delete-timeoffrequest-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/delete-timeoffrequest-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 ---

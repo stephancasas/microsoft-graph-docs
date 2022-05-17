@@ -86,6 +86,10 @@ GET https://graph.microsoft.com/beta/contracts/{id}
 [!INCLUDE [sample-code](../includes/snippets/powershell/get-contract-1-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-contract-1-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

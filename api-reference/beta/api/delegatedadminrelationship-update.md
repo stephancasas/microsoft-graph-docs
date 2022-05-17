@@ -115,6 +115,10 @@ Content-Type: application/json
 [!INCLUDE [sample-code](../includes/snippets/go/update-delegatedadminrelationship-go-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/update-delegatedadminrelationship-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

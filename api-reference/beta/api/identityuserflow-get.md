@@ -89,6 +89,10 @@ GET https://graph.microsoft.com/beta/identity/userFlows/B2C_1_Pol1
 [!INCLUDE [sample-code](../includes/snippets/powershell/get-identityuserflow-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-identityuserflow-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

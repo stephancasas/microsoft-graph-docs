@@ -80,6 +80,10 @@ GET https://graph.microsoft.com/v1.0/auditLogs
 [!INCLUDE [sample-code](../includes/snippets/go/get-auditlogs-go-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-auditlogs-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

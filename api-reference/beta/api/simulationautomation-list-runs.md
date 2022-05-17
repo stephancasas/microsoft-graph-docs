@@ -103,6 +103,10 @@ GET https://graph.microsoft.com/beta/security/attackSimulation/simulationAutomat
 [!INCLUDE [sample-code](../includes/snippets/powershell/list-simulationautomationrun-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/list-simulationautomationrun-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

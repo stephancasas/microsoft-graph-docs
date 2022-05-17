@@ -78,6 +78,10 @@ POST https://graph.microsoft.com/beta/bookingBusinesses/Contosolunchdelivery@con
 [!INCLUDE [sample-code](../includes/snippets/powershell/bookingbusiness-publish-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/bookingbusiness-publish-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

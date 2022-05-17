@@ -102,6 +102,10 @@ GET https://graph.microsoft.com/v1.0/me/people
 [!INCLUDE [sample-code](../includes/snippets/powershell/get-person-collection-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-person-collection-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

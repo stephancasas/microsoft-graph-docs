@@ -86,6 +86,10 @@ GET https://graph.microsoft.com/v1.0/reports/dailyPrintUsageByPrinter/{id}
 [!INCLUDE [sample-code](../includes/snippets/powershell/get-printusagebyprinter-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-printusagebyprinter-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

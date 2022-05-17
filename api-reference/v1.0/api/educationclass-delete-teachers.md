@@ -70,6 +70,10 @@ DELETE https://graph.microsoft.com/v1.0/education/classes/{class-id}/teachers/{t
 [!INCLUDE [sample-code](../includes/snippets/go/create-educationclass-from-educationschool-2-go-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/create-educationclass-from-educationschool-2-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

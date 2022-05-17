@@ -76,6 +76,10 @@ GET /sites/{site-id}/lists/{list-id}/items/{item-id}/versions/{version-id}?expan
 [!INCLUDE [sample-code](../includes/snippets/powershell/get-single-version-listitem-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-single-version-listitem-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

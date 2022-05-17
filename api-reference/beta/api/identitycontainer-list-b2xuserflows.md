@@ -97,6 +97,10 @@ GET https://graph.microsoft.com/beta/identity/b2xUserFlows
 [!INCLUDE [sample-code](../includes/snippets/go/list-b2xuserflows-go-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/list-b2xuserflows-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 
@@ -169,6 +173,10 @@ GET https://graph.microsoft.com/beta/identity/b2xUserFlows?$expand=identityProvi
 
 # [Go](#tab/go)
 [!INCLUDE [sample-code](../includes/snippets/go/list-b2xuserflows-expand-go-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/list-b2xuserflows-expand-typescript-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
 ---

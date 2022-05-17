@@ -97,6 +97,10 @@ GET https://graph.microsoft.com/beta/deviceManagement/virtualEndpoint/cloudPCs/9
 [!INCLUDE [sample-code](../includes/snippets/powershell/get-cloudpc-default-properties-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-cloudpc-default-properties-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 
@@ -188,6 +192,10 @@ GET https://graph.microsoft.com/beta/deviceManagement/virtualEndpoint/cloudPCs/4
 
 # [PowerShell](#tab/powershell)
 [!INCLUDE [sample-code](../includes/snippets/powershell/get-cloudpc-selected-properties-powershell-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-cloudpc-selected-properties-typescript-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
 ---

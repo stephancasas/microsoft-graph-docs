@@ -102,6 +102,10 @@ Content-Type: application/json
 [!INCLUDE [sample-code](../includes/snippets/powershell/serviceprincipal-create-approleassignedto-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/serviceprincipal-create-approleassignedto-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

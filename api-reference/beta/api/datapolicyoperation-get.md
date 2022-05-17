@@ -72,6 +72,10 @@ GET https://graph.microsoft.com/beta/dataPolicyOperations/{id}
 [!INCLUDE [sample-code](../includes/snippets/powershell/get-datapolicyoperation-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-datapolicyoperation-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 ##### Response

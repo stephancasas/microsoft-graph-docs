@@ -81,6 +81,10 @@ POST https://graph.microsoft.com/beta/servicePrincipals/{id}/synchronization/job
 [!INCLUDE [sample-code](../includes/snippets/powershell/synchronizationjob-start-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/synchronizationjob-start-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

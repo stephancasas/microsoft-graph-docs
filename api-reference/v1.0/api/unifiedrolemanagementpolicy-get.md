@@ -81,6 +81,10 @@ GET https://graph.microsoft.com/v1.0/policies/roleManagementPolicies/Directory_c
 [!INCLUDE [sample-code](../includes/snippets/go/get-unifiedrolemanagementpolicy-go-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-unifiedrolemanagementpolicy-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 
@@ -145,6 +149,10 @@ GET https://graph.microsoft.com/v1.0/policies/roleManagementPolicies/DirectoryRo
 
 # [Go](#tab/go)
 [!INCLUDE [sample-code](../includes/snippets/go/get-unifiedrolemanagementpolicy-expandrelationships-go-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-unifiedrolemanagementpolicy-expandrelationships-typescript-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
 ---

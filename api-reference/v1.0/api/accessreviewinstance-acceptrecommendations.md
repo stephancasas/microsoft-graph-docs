@@ -76,6 +76,10 @@ POST https://graph.microsoft.com/v1.0/identityGovernance/accessReviews/definitio
 [!INCLUDE [sample-code](../includes/snippets/go/accessreviewinstance-acceptrecommendations-go-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/accessreviewinstance-acceptrecommendations-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

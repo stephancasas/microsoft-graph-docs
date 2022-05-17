@@ -85,6 +85,10 @@ GET https://graph.microsoft.com/beta/tenantRelationships/delegatedAdminRelations
 [!INCLUDE [sample-code](../includes/snippets/go/list-delegatedadminaccessassignment-go-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/list-delegatedadminaccessassignment-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

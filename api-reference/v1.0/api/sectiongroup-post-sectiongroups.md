@@ -81,6 +81,10 @@ Content-type: application/json
 [!INCLUDE [sample-code](../includes/snippets/go/create-sectiongroup-from-sectiongroup-go-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/create-sectiongroup-from-sectiongroup-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 ##### Response

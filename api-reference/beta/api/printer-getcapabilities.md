@@ -78,6 +78,10 @@ GET https://graph.microsoft.com/beta/print/printers/{id}/getCapabilities
 [!INCLUDE [sample-code](../includes/snippets/powershell/printer-getcapabilities-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/printer-getcapabilities-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

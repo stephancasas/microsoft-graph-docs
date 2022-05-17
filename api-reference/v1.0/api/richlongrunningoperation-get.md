@@ -84,6 +84,10 @@ GET https://graph.microsoft.com/v1.0/sites/root/operations/contentTypeCopy,0x010
 [!INCLUDE [sample-code](../includes/snippets/go/get-richlongrunningoperation-go-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-richlongrunningoperation-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

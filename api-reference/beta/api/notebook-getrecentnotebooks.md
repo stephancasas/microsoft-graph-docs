@@ -86,6 +86,10 @@ GET https://graph.microsoft.com/beta/me/onenote/notebooks/getRecentNotebooks(inc
 [!INCLUDE [sample-code](../includes/snippets/powershell/recent-notebooks-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/recent-notebooks-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

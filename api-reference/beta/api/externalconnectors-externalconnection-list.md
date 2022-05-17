@@ -57,6 +57,8 @@ If successful, this method returns a `200 OK` response code and a collection of 
 
 The following is an example of a request.
 
+
+# [HTTP](#tab/http)
 <!-- {
   "blockType": "request",
   "name": "get_connections"
@@ -65,6 +67,12 @@ The following is an example of a request.
 ```msgraph-interactive
 GET https://graph.microsoft.com/beta/external/connections
 ```
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-connections-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
+---
+
 
 <!-- markdownlint-disable MD024 -->
 ### Response

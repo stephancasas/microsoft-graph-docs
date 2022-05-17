@@ -85,6 +85,10 @@ GET https://graph.microsoft.com/beta/policies/roleManagementPolicies/ba9cc2d6-c2
 [!INCLUDE [sample-code](../includes/snippets/powershell/list-unifiedrolemanagementpolicyrule-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/list-unifiedrolemanagementpolicyrule-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

@@ -89,6 +89,10 @@ GET https://graph.microsoft.com/beta/chats/19:c253a29b5f694b55a6baad8e83510af7@t
 [!INCLUDE [sample-code](../includes/snippets/powershell/list-chat-operations-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/list-chat-operations-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

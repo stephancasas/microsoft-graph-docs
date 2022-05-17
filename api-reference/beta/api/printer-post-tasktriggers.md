@@ -84,6 +84,10 @@ POST https://graph.microsoft.com/beta/print/printers/ae63f617-4856-4b45-8ea9-69d
 [!INCLUDE [sample-code](../includes/snippets/go/create-printer-tasktrigger-go-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/create-printer-tasktrigger-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

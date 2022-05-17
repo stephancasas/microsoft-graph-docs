@@ -92,6 +92,10 @@ Content-type: application/json
 [!INCLUDE [sample-code](../includes/snippets/powershell/create-contact-from-contactfolder-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/create-contact-from-contactfolder-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 In the request body, supply a JSON representation of [contact](../resources/contact.md) object.

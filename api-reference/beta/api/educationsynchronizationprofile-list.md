@@ -79,6 +79,10 @@ GET https://graph.microsoft.com/beta/education/synchronizationProfiles
 [!INCLUDE [sample-code](../includes/snippets/powershell/list-synchronizationprofile-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/list-synchronizationprofile-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

@@ -93,6 +93,10 @@ GET https://graph.microsoft.com/beta/compliance/ediscovery/cases/{caseId}/review
 [!INCLUDE [sample-code](../includes/snippets/powershell/list-reviewset-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/list-reviewset-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

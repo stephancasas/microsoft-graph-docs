@@ -51,6 +51,8 @@ If successful, this method returns a `200 OK` response code and zero or more [cl
 
 The following is an example of a request.
 
+
+# [HTTP](#tab/http)
 <!-- {
   "blockType": "request",
   "name": "get_cloudpcforensicstorageaccount"
@@ -59,6 +61,12 @@ The following is an example of a request.
 ``` http
 GET /deviceManagement/virtualEndpoint/snapshots/getStorageAccounts(subscriptionId='cb6ad4c4-8a17-4245-a644-e4436b1ee204')
 ```
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-cloudpcforensicstorageaccount-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
+---
+
 
 ### Response
 
