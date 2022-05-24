@@ -73,6 +73,10 @@ DELETE https://graph.microsoft.com/beta/applications/{id}/owners/{id}/$ref
 [!INCLUDE [sample-code](../includes/snippets/java/application-delete-owners-java-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/application-delete-owners-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

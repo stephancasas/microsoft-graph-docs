@@ -74,6 +74,10 @@ DELETE https://graph.microsoft.com/v1.0/me/onenote/pages/{id}
 [!INCLUDE [sample-code](../includes/snippets/powershell/delete-page-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/delete-page-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 ##### Response

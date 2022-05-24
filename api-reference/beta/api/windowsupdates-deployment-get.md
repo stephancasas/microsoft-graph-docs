@@ -85,6 +85,10 @@ GET https://graph.microsoft.com/beta/admin/windows/updates/deployments/b5171742-
 [!INCLUDE [sample-code](../includes/snippets/powershell/get-deployment-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-deployment-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

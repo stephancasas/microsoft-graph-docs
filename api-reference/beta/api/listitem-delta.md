@@ -99,11 +99,19 @@ The following is an example of the initial request that shows how to call this A
 
 The following is an example of the initial request.
 
+
+# [HTTP](#tab/http)
 <!-- { "blockType": "request", "name": "get_listItem_delta_first" } -->
 
-```http
+```msgraph-interactive
 GET https://graph.microsoft.com/beta/sites/contoso.sharepoint.com,2C712604-1370-44E7-A1F5-426573FDA80A,2D2244C3-251A-49EA-93A8-39E1C3A060FE/lists/22e03ef3-6ef4-424d-a1d3-92a337807c30/items/delta
 ```
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-listitem-delta-first-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
+---
+
 
 #### Response
 
@@ -193,11 +201,19 @@ The following is an example of a request that shows the last page in a set and h
 
 The following is an example of a request after the initial request.
 
+
+# [HTTP](#tab/http)
 <!-- { "blockType": "request", "name": "get-listItem-delta-last" }-->
 
-```http
+```msgraph-interactive
 GET https://graph.microsoft.com/beta/sites/contoso.sharepoint.com,2C712604-1370-44E7-A1F5-426573FDA80A,2D2244C3-251A-49EA-93A8-39E1C3A060FE/lists/22e03ef3-6ef4-424d-a1d3-92a337807c30/items/delta?token=1230919asd190410jlka
 ```
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-listitem-delta-last-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
+---
+
 
 #### Response
 
@@ -260,11 +276,19 @@ To retrieve the latest `deltaLink`, call `delta` with the query string parameter
 
 The following is an example of a request.
 
+
+# [HTTP](#tab/http)
 <!-- { "blockType": "request", "name": "get-delta-latest", "scope": "sites.read", "target": "action" } -->
 
-```http
+```msgraph-interactive
 GET /sites/contoso.sharepoint.com,2C712604-1370-44E7-A1F5-426573FDA80A,2D2244C3-251A-49EA-93A8-39E1C3A060FE/lists/22e03ef3-6ef4-424d-a1d3-92a337807c30/items/delta?token=latest
 ```
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-delta-latest-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
+---
+
 
 #### Response
 

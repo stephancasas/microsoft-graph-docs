@@ -86,6 +86,10 @@ DELETE https://graph.microsoft.com/beta/teams/{id}/schedule/openShifts/OPNSHFT_5
 [!INCLUDE [sample-code](../includes/snippets/powershell/delete-openshift-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/delete-openshift-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

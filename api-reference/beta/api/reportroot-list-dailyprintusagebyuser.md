@@ -77,6 +77,10 @@ GET https://graph.microsoft.com/beta/print/reports/dailyPrintUsageByUser
 [!INCLUDE [sample-code](../includes/snippets/go/get-endpoints-4-go-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-endpoints-4-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 ### Response

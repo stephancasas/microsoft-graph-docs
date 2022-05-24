@@ -82,6 +82,10 @@ GET https://graph.microsoft.com/beta/termStore/groups/{groupId}/sets
 [!INCLUDE [sample-code](../includes/snippets/go/get-set-1-go-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-set-1-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

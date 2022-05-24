@@ -81,6 +81,10 @@ DELETE https://graph.microsoft.com/beta/sites/root/lists/Documents/items/2/docum
 [!INCLUDE [sample-code](../includes/snippets/go/delete-documentsetversion-go-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/delete-documentsetversion-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

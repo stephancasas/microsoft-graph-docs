@@ -85,6 +85,10 @@ DELETE https://graph.microsoft.com/beta/deviceManagement/virtualEndpoint/userSet
 [!INCLUDE [sample-code](../includes/snippets/powershell/delete-cloudpcusersetting-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/delete-cloudpcusersetting-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 
